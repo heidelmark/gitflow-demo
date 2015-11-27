@@ -1,3 +1,3 @@
-var message = 'Sweet app, man.';
+var message = 'Sweet application, man.';
 console.log(message);
 alert(message);
